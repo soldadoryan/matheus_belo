@@ -1,0 +1,25 @@
+body {
+  background-image: url("https://www.srzd.com/wp-content/uploads/2019/06/Belo-Perfeita-Pra-Mim-YOBA201802-840x440.jpg");
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.wrap {
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrap h1 {
+  text-shadow: 3px 3px 5px #ff33cc;
+  color: #fff;
+  font-size: 60px;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
